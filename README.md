@@ -20,7 +20,11 @@ A personal index of code libraries Daniel uses and likes — curated across lang
 
 ## Python
 
-<!-- Empty — add favourite Python libraries here -->
+### pdfplumber
+
+Library for detailed PDF text, table, and layout extraction — reliable where other PDF tools give up.
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/jsvine/pdfplumber)
 
 ---
 
