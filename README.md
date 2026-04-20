@@ -10,11 +10,40 @@ A personal index of code libraries Daniel uses and likes — curated across lang
 
 ## Table of Contents
 
-- [Python](#python)
-- [JavaScript / TypeScript](#javascript--typescript)
-- [CLI & Tooling](#cli--tooling)
 - [AI / LLM](#ai--llm)
 - [Audio / Media](#audio--media)
+- [CLI & Tooling](#cli--tooling)
+- [JavaScript / TypeScript](#javascript--typescript)
+- [Python](#python)
+- [Speech / ASR](#speech--asr)
+
+---
+
+## AI / LLM
+
+<!-- Empty — add favourite AI/LLM libraries and SDKs here -->
+
+---
+
+## Audio / Media
+
+<!-- Empty — add favourite audio/media libraries here -->
+
+---
+
+## CLI & Tooling
+
+<!-- Empty — add favourite CLI tools and dev utilities here -->
+
+---
+
+## JavaScript / TypeScript
+
+### Readability
+
+Mozilla's content-extraction library — pulls the clean article body out of a web page (the engine behind Firefox Reader View).
+
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/mozilla/readability)
 
 ---
 
@@ -28,27 +57,19 @@ Library for detailed PDF text, table, and layout extraction — reliable where o
 
 ---
 
-## JavaScript / TypeScript
+## Speech / ASR
 
-<!-- Empty — add favourite JS/TS libraries here -->
+### edge-tts
 
----
+Python module that uses Microsoft Edge's online TTS service — high-quality neural voices without an API key.
 
-## CLI & Tooling
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/rany2/edge-tts)
 
-<!-- Empty — add favourite CLI tools and dev utilities here -->
+### jiwer
 
----
+Fast, minimal WER/CER computation for ASR evaluation — the de-facto Python library for transcription accuracy metrics.
 
-## AI / LLM
-
-<!-- Empty — add favourite AI/LLM libraries and SDKs here -->
-
----
-
-## Audio / Media
-
-<!-- Empty — add favourite audio/media libraries here -->
+[![View Repo](https://img.shields.io/badge/View-Repo-blue?style=flat&logo=github)](https://github.com/jitsi/jiwer)
 
 ---
 
